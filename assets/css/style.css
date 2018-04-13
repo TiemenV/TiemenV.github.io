@@ -275,6 +275,12 @@ footer {
     #aboutchucknorris{
         margin-top: 100px;
     }
+    .buttonholder {
+        width: 200px;
+        height: 200px;
+        margin-left: 40px;
+        margin-top: 40px;
+    }
 
 }
 
