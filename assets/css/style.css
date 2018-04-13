@@ -244,6 +244,7 @@ footer {
     }
     nav {
         margin-bottom: 50px;
+        font-size:2rem;
     }
     figure {
         height: 100vw;
@@ -255,6 +256,22 @@ footer {
     #about {
         display:none;
     }
+    h1 {
+        font-size: 10rem;
+    }
+    h2 {
+        font-size: 6rem;
+    }
+    h3 {
+        font-size: 2rem;
+    }
+    p {
+        font-size: 2rem;
+    }
+    button {
+        font-size: 2rem;
+    }
+
 }
 
 
