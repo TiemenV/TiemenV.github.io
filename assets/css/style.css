@@ -244,8 +244,14 @@ footer {
     nav {
         margin-bottom: 100px;
     }
+    .movie {
+        height: 100vw;
+    }
+    .image {
+        height: 100vw;
+    }
     img {
-        height: 1vw;
+        height: 100vw;
     }
 }
 
