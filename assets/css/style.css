@@ -272,6 +272,9 @@ footer {
     button {
         font-size: 2rem;
     }
+    #aboutchucknorris{
+        margin-top: 100px;
+    }
 
 }
 
