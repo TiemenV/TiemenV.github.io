@@ -219,6 +219,33 @@ footer {
 
 .movie {
     margin-bottom: 50px;
+
 }
+
+@media (max-width: 1200px) {
+    main {
+        width: 100vw;
+        display:flex;
+        flex-direction:column;
+        padding: 0;
+    }
+    .leftcontainer {
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 50px;
+        width: 80%;
+    }
+    .rightcontainer {
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom:50px;
+        width: 80%;
+    }
+    nav {
+        margin-bottom: 100px;
+    }
+}
+
+
 
 
