@@ -232,13 +232,13 @@ footer {
     .leftcontainer {
         margin-left: auto;
         margin-right: auto;
-        margin-bottom: 50px;
+        margin-bottom: 100px;
         width: 80%;
     }
     .rightcontainer {
         margin-left: auto;
         margin-right: auto;
-        margin-bottom:50px;
+        margin-bottom:100px;
         width: 80%;
         height: 100vw;
     }
@@ -268,7 +268,6 @@ footer {
     p {
         font-size: 2rem;
         line-height: 2.4rem;
-        margin-bottom: 50px;
     }
     button {
         font-size: 2rem;
