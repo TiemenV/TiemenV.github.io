@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ea819ab-36de-4cb4-a89a-318bcd257488" name="Default" comment="" />
+    <list default="true" id="5ea819ab-36de-4cb4-a89a-318bcd257488" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,38 +16,51 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="284" column="22" lean-forward="true" selection-start-line="284" selection-start-column="22" selection-end-line="284" selection-end-column="22" />
+            <state relative-caret-position="40">
+              <caret line="89" column="18" lean-forward="true" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="movies.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/movies.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-546" />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="categories.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/categories.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-252" />
+            <state relative-caret-position="504">
+              <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="179">
+              <caret line="24" column="32" selection-end-line="45" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="movies.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/movies.html">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="10" column="6" lean-forward="true" selection-end-line="29" selection-end-column="7" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="364">
+              <caret line="26" column="36" lean-forward="true" selection-end-line="43" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -112,6 +127,18 @@
               <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="tiemenv.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tiemenv.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="fonts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tiemenv.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tiemenv.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -148,12 +175,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523624177088</updated>
-      <workItem from="1523624178286" duration="3139000" />
+      <workItem from="1523624178286" duration="4299000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3139000" />
+    <option name="totallyTimeSpent" value="4299000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="3" width="1326" height="726" extended-state="6" />
@@ -208,32 +235,43 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/movies.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="179">
+          <caret line="24" column="32" selection-end-line="45" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movies.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="6" lean-forward="true" selection-end-line="29" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="364">
+          <caret line="26" column="36" lean-forward="true" selection-end-line="43" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/categories.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-252" />
+        <state relative-caret-position="504">
+          <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/movies.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-546" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="284" column="22" lean-forward="true" selection-start-line="284" selection-start-column="22" selection-end-line="284" selection-end-column="22" />
+        <state relative-caret-position="40">
+          <caret line="89" column="18" lean-forward="true" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
         </state>
       </provider>
     </entry>
