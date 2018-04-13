@@ -1,17 +1,18 @@
 # chuck-it
+
 Website assignment for College class Analysis and Modelling Techniques. Website should display Chuck Norris jokes and movies by fetching API's.
 
+## Responsive Design
 
-## TODO
+The website was designed with both mobile and desktop users in mind. In a day and age where more than half of the global pageviews are rendered on a mobile device, responsive design is a very important aspect of a succesful website. The desktop website was designed with a horizontal minimalistic design in mind, the mobile website keeps the same minimalistic design but vertically to adjust for the portrait viewport that most mobile users view websites in.
 
-* implement responsive design with a seperate mobile website via media queries
-* documentation
-* testing
+## Expansions
 
-## Nice to have
+### Watched movies and watchlist
+The user should be able to create an account, login to said account and mark movies as viewed or add them to a watchlist
 
-* Style category buttons with a background image
-* Get a random CN fact in the about page
-* Get categories from API dynamically
-* Material design for mobile
-* Sorting movies by name or date
+### Movie ratings
+
+The user should be able to assign ratings to movies.
+
+
