@@ -270,14 +270,14 @@ footer {
         line-height: 2.4rem;
     }
     button {
-        font-size: 1.5rem;
+        font-size: 2rem;
     }
     #aboutchucknorris{
         margin-top: 100px;
     }
     .buttonholder {
-        width: 200px;
-        height: 200px;
+        width: 150px;
+        height: 150px;
         margin-left: 40px;
         margin-top: 40px;
     }
