@@ -243,13 +243,14 @@ footer {
         height: 150vw;
     }
     nav {
-        margin-bottom: 100px;
+        margin-bottom: 50px;
     }
     figure {
-        height: 150vw;
+        height: 100vw;
     }
     img {
-        height: 150vw;
+        height: 100vw;
+        width: 80%;
     }
 }
 
