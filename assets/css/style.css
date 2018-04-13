@@ -252,6 +252,9 @@ footer {
         height: 100vw;
         width: 80%;
     }
+    #about {
+        display:none;
+    }
 }
 
 
