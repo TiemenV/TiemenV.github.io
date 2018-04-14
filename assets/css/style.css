@@ -223,11 +223,15 @@ footer {
 }
 
 @media (max-width: 1200px) {
+    body {
+        flex-direction:column;
+        justify-content: space-evenly;
+    }
     main {
         width: 100vw;
         display:flex;
         flex-direction:column;
-        justify-content: space-evenly;;
+
         padding: 0;
     }
     .leftcontainer {
