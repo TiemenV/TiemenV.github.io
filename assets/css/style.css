@@ -232,13 +232,13 @@ footer {
     .leftcontainer {
         margin-left: auto;
         margin-right: auto;
-        margin-bottom: 100px;
+        margin-bottom: 10%;
         width: 80%;
     }
     .rightcontainer {
         margin-left: auto;
         margin-right: auto;
-        margin-bottom:100px;
+        margin-bottom: 10%;
         width: 80%;
         height: 100vw;
     }
