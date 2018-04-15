@@ -241,6 +241,9 @@ footer {
         margin-bottom: 20%;
         width: 80%;
     }
+    .leftcontainer p {
+        margin-bottom:50px;
+    }
 
     .rightcontainer {
         margin-left: auto;
