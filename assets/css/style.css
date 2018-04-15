@@ -238,13 +238,14 @@ footer {
     .leftcontainer {
         margin-left: auto;
         margin-right: auto;
-        margin-bottom: 10%;
+        margin-bottom: 20%;
         width: 80%;
     }
+
     .rightcontainer {
         margin-left: auto;
         margin-right: auto;
-        margin-bottom: 10%;
+        margin-bottom: 20%;
         width: 80%;
         height: 100vw;
     }
