@@ -2,7 +2,7 @@
 
 document.addEventListener("DOMContentLoaded", init);
 
-let debug = true;
+let debug = false;
 let APIkey = "3f73c98cb2fa0665149b568b9a437482";
 let posterBaseURL = "https://image.tmdb.org/t/p/w600_and_h900_bestv2";
 

@@ -2,7 +2,7 @@
 
 document.addEventListener("DOMContentLoaded", init);
 let allButtons = [];
-let debug = true;
+let debug = false;
 
 function init() {
     allButtons = document.querySelectorAll(".buttonholder");
