@@ -238,6 +238,7 @@ footer {
     .leftcontainer {
         margin-left: auto;
         margin-right: auto;
+        margin-bottom: 20%;
         width: 80%;
     }
     .leftcontainer p {
